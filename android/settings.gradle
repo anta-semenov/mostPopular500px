@@ -1,0 +1,3 @@
+rootProject.name = 'mostPopular500px'
+
+include ':app'
